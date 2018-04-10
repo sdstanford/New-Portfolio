@@ -1,0 +1,36 @@
+.nav .nav-tabs{
+    padding-right:10px;
+}
+.greet{
+    font-family: 'Ribeye Marrow', cursive;
+}
+
+.subhead{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron{
+    background-image:url(../images/background.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:white;
+}
+
+.jumbotron h1{
+    font-size: 150px;
+}
+
+#head-content{
+    padding-left:40px;
+}
+
+#shan-pic{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
+
+#main-header-col{
+    margin-left: 0;
+}
