@@ -1,12 +1,29 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container-fluid{
+    text-align: center;
+}
+
+a{
+    color:#D87E30;
+}
+
 .nav .nav-tabs{
     padding-right:10px;
 }
+
 .greet{
     font-family: 'Ribeye Marrow', cursive;
 }
 
+#logo{
+    font-family: 'Ribeye Marrow', cursive;
+}
+
 .subhead{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .jumbotron{
