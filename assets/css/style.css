@@ -2,6 +2,10 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
+.active{
+    color:#9500a8;
+}
+
 .container-fluid{
     text-align: center;
 }
@@ -33,6 +37,12 @@ a{
     color:white;
 }
 
+#main-head{
+    color:white;
+    font-family: 'Ribeye Marrow', cursive;
+    text-align: center;
+}
+
 .jumbotron h1{
     font-size: 150px;
 }
@@ -50,4 +60,68 @@ a{
 
 #main-header-col{
     margin-left: 0;
+}
+
+.block{
+    position:relative;
+    margin-bottom: 20px;
+    }
+
+.p-img{
+    width:200px;
+    height:200px;
+}
+
+.prt-img{
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #BE5C53;
+}
+
+#port-block{
+    align-content: center;
+}
+
+.plabels{
+    background-color: #BE5C53;
+    color: #ffffff;
+    width:200px;
+    height:40px;
+    text-align: center;
+    padding:10px;
+    position:absolute;
+    top:130px;
+    z-index:10;
+}
+
+#bottomblock{
+    padding-bottom:50px;
+}
+
+.social-block{
+    text-align: center;
+}
+
+#cont-sub{
+    text-align: center;
+}
+
+.cont-block{
+    text-align: center;
+    align-content: center;
+}
+
+#cont{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+.page-footer{
+    background-color: #BE5C53;
+    padding-top: 10px;
+}
+
+.footer-copyright{
+    text-align: center;
 }
