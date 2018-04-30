@@ -117,6 +117,10 @@ a{
     font-size: 18px;
 }
 
+.main-socialitem{
+    color: black;
+}
+
 .page-footer{
     background-color: #BE5C53;
     padding-top: 10px;
