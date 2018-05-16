@@ -38,6 +38,10 @@ a{
     background-size: cover;
 }
 
+.aboutMe{
+    font-size:18px;
+}
+
 #main-head{
     color:white;
     font-family: 'Ribeye Marrow', cursive;
